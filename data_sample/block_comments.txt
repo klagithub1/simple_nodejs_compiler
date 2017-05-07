@@ -1,0 +1,9 @@
+/** This is a block
+comment
+and should
+not
+be scanned
+at all!
+*/
+
+@@END OF FILE@@

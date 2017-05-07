@@ -1,0 +1,2 @@
+value = 90.54 // The rst of this line should be ignored
+EOF

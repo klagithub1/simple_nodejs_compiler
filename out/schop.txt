@@ -1,0 +1,1 @@
+{"QJ4TiC5z8":{"type":"ID","lexeme":"x = z","line":1,"position":0},"71SpiCqfI":{"type":"ID","lexeme":"EOF","line":2,"position":0}}

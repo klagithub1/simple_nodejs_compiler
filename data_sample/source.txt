@@ -1,0 +1,16 @@
+@@  START OF FILE  test5_  _another_invalid @@
+=== Plugin Name ===  //comments bla bla bla
+vd
+sdsdsddsd /* From here
+    and here
+    and here too
+everything in between to be ignored
+becasue multiblock */     NORMAL    /+ <
+## <> <= >= == =
+here back
+to normal
+,;(){}.. ..
+67765.93*  .d
+034
+0 500
+@@ENDO OF FILE@@

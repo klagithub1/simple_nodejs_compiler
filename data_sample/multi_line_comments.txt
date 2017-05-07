@@ -1,0 +1,4 @@
+/* The whole text here should be ignored
+until the closure */
+31
+@@END OF  FILE@@

@@ -1,0 +1,15 @@
+{
+    "1":{"type":"reserved","lexeme":"class","line":1,"position":4},
+    "2":{"type":"ID","lexeme":"Utility","line":1,"position":14},
+    "3":{"type":"OPENCURLY","line":1,"position":14},
+    "4":{"type":"CLOSECURLY","line":1,"position":14},
+    "5":{"type":"SEMICOLON","lexeme":";","line":1,"position":14},
+
+    "6":{"type":"reserved","lexeme":"class","line":1,"position":4},
+    "7":{"type":"ID","lexeme":"Utility","line":1,"position":14},
+    "8":{"type":"OPENCURLY","line":1,"position":14},
+    "9":{"type":"CLOSECURLY","line":1,"position":14},
+    "10":{"type":"SEMICOLON","lexeme":";","line":1,"position":14},
+
+    "11":{"type":"RESERVED","lexeme":"program","line":1,"position":4}
+}
